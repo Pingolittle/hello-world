@@ -1,2 +1,3 @@
 # hello-world
 Este repositório é para praticar o fluxo do GitHub
+Estou aprendendo a programar nada melhor do que usar o GitHub para treinar...
